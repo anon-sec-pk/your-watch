@@ -27,8 +27,7 @@ Ensure you have Python 3 installed on your system. You can download it from [pyt
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/your-watch.git
-cd anon-ip-tools
+https://github.com/anon-sec-pk/your-watch
 ```
 
 ### Install Dependencies
