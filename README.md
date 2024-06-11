@@ -26,7 +26,7 @@ Ensure you have Python 3 installed on your system. You can download it from [pyt
 
 ### Clone the Repository
 
-```sh
+
 https://github.com/anon-sec-pk/your-watch
 ```
 
